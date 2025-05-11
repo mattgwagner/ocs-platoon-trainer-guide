@@ -2,6 +2,8 @@
 title: Key Knowledge Areas
 ---
 
+# Key Knowledge Areas
+
 - Military Doctrine and Regulations.
 - Understand Army Doctrine (ADP/ATP).
 - Familiarity with the Army Leadership Framework (ADRP 6-22).
