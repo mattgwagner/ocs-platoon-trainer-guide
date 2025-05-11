@@ -637,3 +637,72 @@ class: text-center
 [Documentation](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/resources/showcases)
 
 <PoweredBySlidev mt-10 />
+
+---
+# Introduction to TAC Officer Role
+
+- Mentor and lead officer candidates.
+- Evaluate and report on candidate performance.
+- Enforce military standards and values.
+
+---
+# Key Knowledge Areas
+
+- Military Doctrine and Regulations.
+- Understand Army Doctrine (ADP/ATP).
+- Familiarity with the Army Leadership Framework (ADRP 6-22).
+- Basics of platoon-level tactics.
+- Key roles and responsibilities within a platoon.
+
+---
+# Candidate Evaluation Criteria
+
+- Leadership skills, teamwork, and adaptability.
+- Physical fitness and tactical competence.
+- Decision-making under stress.
+
+---
+# Exercise Correction Techniques
+
+- Emphasize positive reinforcement.
+- Provide clear and actionable feedback.
+- Timing of corrections - correct immediately to reinforce learning.
+
+---
+# Limitations of TAC Officers
+
+- Should not execute evaluations based solely on personal opinions.
+- Avoid favoritism or bias.
+- Know when to escalate disciplinary actions.
+
+---
+# Important OCS Policies
+
+- Ensure familiarity with OCS SOP specifics.
+- Leadership development policies.
+- Performance counseling procedures.
+- Emergency protocols and candidate safety measures.
+
+---
+# Building a Cohesive Team
+
+- Importance of cohesion in candidates.
+- Techniques for building trust and teamwork (group activities, trust-building exercises).
+
+---
+# Effective Communication
+
+- Use clear and concise language.
+- Active listening techniques.
+
+---
+# Continuous Improvement
+
+- Seek feedback from peers and superiors.
+- Attend relevant training and workshops.
+- Stay updated with new techniques and pedagogical approaches.
+
+---
+# Conclusion & Resources
+
+- Review significant references (Tactical Officer Training literature, OCS Course Management Plan, Army Regulations).
