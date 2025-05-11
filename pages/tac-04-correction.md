@@ -1,5 +1,6 @@
 ---
-# Exercise Correction Techniques
+title: Exercise Correction Techniques
+---
 
 - Emphasize positive reinforcement.
 - Provide clear and actionable feedback.

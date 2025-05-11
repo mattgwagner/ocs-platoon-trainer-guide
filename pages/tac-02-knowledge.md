@@ -1,5 +1,6 @@
 ---
-# Key Knowledge Areas
+title: Key Knowledge Areas
+---
 
 - Military Doctrine and Regulations.
 - Understand Army Doctrine (ADP/ATP).
