@@ -90,3 +90,5 @@ src: ./pages/tac-15-common-pitfalls.md
 ---
 src: ./pages/tac-10-conclusion.md
 ---
+
+#import pages/tac-16-counseling-types.md
