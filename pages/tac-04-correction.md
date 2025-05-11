@@ -8,7 +8,7 @@ title: Overview of Corrective Exercises
 - **Goal:** Enhance skills, correct mistakes, and reinforce learning.
 
 ---
-title: Acceptable Corrective Exercises
+title: Acceptable Corrective Exercises: Physical & Task-Based
 ---
 
 # Acceptable Corrective Exercises
@@ -22,6 +22,13 @@ The following corrective exercises are generally considered appropriate for TAC 
   - Repeating drill and ceremony movements to reinforce attention to detail and discipline.
 - **Repetitive Task Practice:**
   - Having candidates repeat a procedure or task (e.g., weapons clearing, radio procedures) until performed correctly.
+
+---
+title: Acceptable Corrective Exercises: Reflective & Leadership
+---
+
+# Acceptable Corrective Exercises (cont.)
+
 - **Written Reflections:**
   - Short written assignments reflecting on the mistake and how to improve.
 - **Leadership Rotations:**
