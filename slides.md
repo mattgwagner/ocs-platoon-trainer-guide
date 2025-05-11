@@ -76,6 +76,10 @@ src: ./pages/tac-12-counseling-feedback.md
 ---
 
 ---
+src: ./pages/tac-16-counseling-types.md
+---
+
+---
 src: ./pages/tac-13-ethical-leadership.md
 ---
 
@@ -90,5 +94,3 @@ src: ./pages/tac-15-common-pitfalls.md
 ---
 src: ./pages/tac-10-conclusion.md
 ---
-
-#import pages/tac-16-counseling-types.md
