@@ -28,20 +28,39 @@ mdc: true
 ---
 src: ./pages/tac-01-intro.md
 ---
+
+---
 src: ./pages/tac-02-knowledge.md
+---
+
 ---
 src: ./pages/tac-03-evaluation.md
 ---
+
+---
 src: ./pages/tac-04-correction.md
+---
+
 ---
 src: ./pages/tac-05-limitations.md
 ---
+
+---
 src: ./pages/tac-06-policies.md
+---
+
 ---
 src: ./pages/tac-07-cohesion.md
 ---
+
+---
 src: ./pages/tac-08-communication.md
+---
+
 ---
 src: ./pages/tac-09-improvement.md
 ---
+
+---
 src: ./pages/tac-10-conclusion.md
+---
