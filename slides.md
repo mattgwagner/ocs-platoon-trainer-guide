@@ -62,5 +62,25 @@ src: ./pages/tac-09-improvement.md
 ---
 
 ---
+src: ./pages/tac-11-daily-battle-rhythm.md
+---
+
+---
+src: ./pages/tac-12-counseling-feedback.md
+---
+
+---
+src: ./pages/tac-13-ethical-leadership.md
+---
+
+---
+src: ./pages/tac-14-scenario-based-training.md
+---
+
+---
+src: ./pages/tac-15-common-pitfalls.md
+---
+
+---
 src: ./pages/tac-10-conclusion.md
 ---
