@@ -1,0 +1,111 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+@ -1,105 +1,5 @@
+# MDC Rule Organization
+
+## Rule Description
+This rule ensures that all new MDC (Model-Driven Code) rules are created in the `.cursor/rules` directory as separate files.
+
+## Rule Details
+- **Category**: Project Organization
+- **Severity**: High
+- **Scope**: Project-wide
+
+## Requirements
+1. All new MDC rules must be created in the `.cursor/rules` directory
+2. Each rule must be in its own file
+3. Rule files must follow the naming convention: `mdc-rule-{purpose}.md`
+4. Rule files must include:
+   - Rule description
+   - Rule details (category, severity, scope)
+   - Requirements
+   - Examples
+   - Implementation guidelines
+
+## Examples
+
+### Correct Implementation
+```markdown
+# .cursor/rules/mdc-rule-component-structure.md
+
+# Component Structure Rule
+
+## Rule Description
+This rule defines the standard structure for React components.
+
+## Rule Details
+- **Category**: Code Style
+- **Severity**: Medium
+- **Scope**: React Components
+
+## Requirements
+1. Components must be functional components
+2. Props must be typed with TypeScript interfaces
+3. Components must include JSDoc documentation
+...
+```
+
+### Incorrect Implementation
+```markdown
+# rules.md
+
+# All Rules
+
+## Component Rule
+[Component rule content...]
+
+## State Management Rule
+[State management rule content...]
+```
+
+## Implementation Guidelines
+1. When creating a new rule:
+   - Create a new file in `.cursor/rules`
+   - Use the naming convention `mdc-rule-{purpose}.md`
+   - Follow the standard rule structure
+   - Include all required sections
+
+2. Rule file structure:
+   ```markdown
+   # Rule Name
+
+   ## Rule Description
+   [Clear description of the rule's purpose]
+
+   ## Rule Details
+   - **Category**: [Category]
+   - **Severity**: [High/Medium/Low]
+   - **Scope**: [Scope of the rule]
+
+   ## Requirements
+   [List of specific requirements]
+
+   ## Examples
+   [Code examples showing correct and incorrect implementations]
+
+   ## Implementation Guidelines
+   [Step-by-step guidelines for implementing the rule]
+   ```
+
+3. Rule categories should be one of:
+   - Project Organization
+   - Code Style
+   - Performance
+   - Security
+   - Testing
+   - Documentation
+   - Accessibility
+
+4. Severity levels:
+   - High: Critical for project functionality or security
+   - Medium: Important for code quality or maintainability
+   - Low: Best practices or optional improvements
+
+## Validation
+- Each rule file must be validated against this structure
+- Rules must be properly categorized and severity-assigned
+- Examples must demonstrate both correct and incorrect implementations
+- Implementation guidelines must be clear and actionable 

@@ -1,0 +1,120 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Automatic Git Commit After Cursor Changes
+
+## Rule Description
+This rule ensures that after each automated change performed by Cursor IDE, a Git commit is automatically created following the conventional commit convention, with a detailed explanation of the changes and the prompts that generated them.
+
+## Rule Details
+- **Category**: Project Organization
+- **Severity**: High
+- **Scope**: Git Operations
+
+## Requirements
+1. After each Cursor IDE automated change:
+   - Automatically stage all changed files
+   - Create a commit with a conventional commit message
+   - Include detailed explanation of changes and prompts
+
+2. Commit message structure must follow:
+   ```
+   type(scope): short description
+
+   Detailed explanation of changes:
+   - What was changed
+   - Why it was changed
+   - Prompts used to generate the changes
+   ```
+
+3. Commit types must be one of:
+   - feat: New feature
+   - fix: Bug fix
+   - docs: Documentation changes
+   - style: Code style changes
+   - refactor: Code refactoring
+   - perf: Performance improvements
+   - test: Adding or modifying tests
+   - chore: Maintenance tasks
+
+4. The commit must include:
+   - All modified files
+   - All new files
+   - All deleted files
+
+## Examples
+
+### Correct Implementation
+```bash
+# After Cursor IDE makes changes to src/components/Button.tsx
+git add src/components/Button.tsx
+git commit -m "feat(components): add loading state to Button component
+
+Detailed explanation of changes:
+- Added loading state with spinner animation
+- Implemented loading text customization
+- Added disabled state during loading
+- Updated TypeScript types for new props
+
+Prompts used:
+- 'Add loading state to Button component'
+- 'Implement spinner animation'
+- 'Add TypeScript types for loading state'
+"
+```
+
+### Incorrect Implementation
+```bash
+# Missing conventional commit format
+git commit -m "Updated button component"
+
+# Missing detailed explanation
+git commit -m "feat(components): add loading state"
+```
+
+## Implementation Guidelines
+1. When Cursor IDE makes changes:
+   - Capture the list of modified files
+   - Record the prompts used to generate changes
+   - Determine the appropriate commit type
+   - Generate a conventional commit message
+
+2. Commit message structure:
+   ```markdown
+   type(scope): short description
+
+   Detailed explanation of changes:
+   - [List of specific changes]
+   - [Impact of changes]
+   - [Technical details]
+
+   Prompts used:
+   - [List of prompts that generated changes]
+   ```
+
+3. Commit types and their usage:
+   - feat: New features or major enhancements
+   - fix: Bug fixes and error corrections
+   - docs: Documentation updates
+   - style: Code formatting and style changes
+   - refactor: Code restructuring without functional changes
+   - perf: Performance optimizations
+   - test: Test-related changes
+   - chore: Maintenance and housekeeping
+
+4. Scope guidelines:
+   - Use component names for component changes
+   - Use feature names for feature changes
+   - Use 'core' for core functionality changes
+   - Use 'deps' for dependency changes
+   - Use 'config' for configuration changes
+
+## Validation
+- Each commit must follow the conventional commit format
+- Commit messages must include detailed explanations
+- All prompts used must be documented
+- Changes must be properly categorized by type
+- Scope must be accurately specified
+- All modified files must be included in the commit 
