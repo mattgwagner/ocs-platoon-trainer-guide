@@ -1,0 +1,40 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+@ -1,34 +0,0 @@
+# Sli.dev Slides Rule
+
+## Rule Description
+This rule ensures that all Sli.dev slides created or edited in this project adhere to the official syntax and project structure as documented at [https://sli.dev/guide/syntax](https://sli.dev/guide/syntax). Slides must be concise and coherent.
+
+## Rule Details
+- **Category**: Content Quality & Consistency
+- **Severity**: High
+- **Scope**: All Sli.dev slide markdown files (e.g., `slides.md`)
+
+## Requirements
+1. **Reference Official Documentation**
+   - All slide syntax and project structure decisions must be based on the official Sli.dev documentation: [https://sli.dev/guide/syntax](https://sli.dev/guide/syntax).
+   - When in doubt about syntax or structure, consult the documentation.
+2. **Conciseness**
+   - Slides should communicate ideas clearly and succinctly.
+   - Avoid unnecessary verbosity or overly long text blocks.
+3. **Coherence**
+   - Each slide should present a single, clear idea or topic.
+   - The flow between slides should be logical and easy to follow.
+4. **Formatting**
+   - Use `---` to separate slides as per Sli.dev syntax.
+   - Use frontmatter and per-slide frontmatter as described in the documentation.
+   - Use Markdown and Sli.dev extensions (e.g., code blocks, notes, diagrams) appropriately.
+
+## Validation
+- Reviewers should check that all slides:
+  - Follow the official syntax and structure
+  - Are concise and coherent
+  - Use formatting and features as described in the documentation
+- Any deviation should be corrected by referencing the official guide.
+
+## References
+- [Sli.dev Syntax Guide](https://sli.dev/guide/syntax) 
