@@ -5,7 +5,7 @@ theme: apple-basic
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
-title: Welcome to Slidev
+title: Platoon Trainer Guide
 info: |
   ## Slidev Starter Template
   Presentation slides for developers.
@@ -24,6 +24,12 @@ mdc: true
 # seoMeta:
 #  ogImage: https://cover.sli.dev
 ---
+
+# Platoon Trainer Guide
+
+## Purpose
+
+To provide guidance, best practices, and actionable insights for platoon trainers, supporting effective training and leadership in line with the Appendix K PLT Trainer Guide (5 MAY 2022).
 
 ---
 src: ./pages/tac-01-intro.md
