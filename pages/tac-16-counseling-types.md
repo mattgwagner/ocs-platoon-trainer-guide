@@ -6,6 +6,10 @@ title: OCS Counseling & Evaluation Forms
 
 Officer Candidate School (OCS) uses a series of color-coded forms to document, counsel, and evaluate candidates throughout their training. Each form serves a specific purpose in the candidate's leadership development and assessment process.
 
+---
+title: Leadership Evaluation In-Brief (Blue Card)
+---
+
 ## Leadership Evaluation In-Brief (Blue Card)
 - **Form:** ARNGOCS Form 2 (5.5" x 8.5" light blue card stock)
 - **Purpose:** Defines expectations and success criteria for a candidate's leadership position before they assume the role. Replicates the OER Support Form system.
@@ -15,6 +19,10 @@ Officer Candidate School (OCS) uses a series of color-coded forms to document, c
   - Back: Trainer summarizes counseling; candidate comments on expectations.
   - Both sign/date. Completed before candidate assumes leadership.
 
+---
+title: Candidate Self-Assessment Report (Yellow Card)
+---
+
 ## Candidate Self-Assessment Report (Yellow Card)
 - **Form:** ARNGOCS Form 4 (5.5" x 8.5" yellow card stock)
 - **Purpose:** Candidate's self-assessment of their performance in a leadership position, using the Time, Event, Result (TER) format.
@@ -22,6 +30,10 @@ Officer Candidate School (OCS) uses a series of color-coded forms to document, c
   - Issued with the In-Brief.
   - Candidate summarizes performance, lists strengths/weaknesses.
   - "Actions to Improve" completed during LER counseling.
+
+---
+title: Leadership Observation Report (LOR, Green Card)
+---
 
 ## Leadership Observation Report (LOR, Green Card)
 - **Form:** ARNGOCS Form 3 (5.5" x 8.5" light green card stock)
@@ -31,6 +43,10 @@ Officer Candidate School (OCS) uses a series of color-coded forms to document, c
   - Circles relevant competencies/attributes.
   - "Corrective Training/Course of Action" refers to LER.
   - Signed by cadre and candidate.
+
+---
+title: Leadership Evaluation Report (LER, White Paper)
+---
 
 ## Leadership Evaluation Report (LER, White Paper)
 - **Form:** ARNGOCS Form 1 (two-sided, white bond paper)
@@ -42,6 +58,10 @@ Officer Candidate School (OCS) uses a series of color-coded forms to document, c
   - Must be counseled within 24 hours of completion of the leadership period.
   - Filed with In-Brief, LORs, and Self-Assessments as a packet.
 
+---
+title: Field Leadership Evaluation Report (FLER, Tan Card)
+---
+
 ## Field Leadership Evaluation Report (FLER, Tan Card)
 - **Form:** ARNGOCS Form 5 (two-sided, tan card stock)
 - **Purpose:** Used during field exercises to evaluate leadership using the 8 Troop Leading Procedures (TLPs). Holds the same weight as the LER for graduation requirements.
@@ -51,6 +71,8 @@ Officer Candidate School (OCS) uses a series of color-coded forms to document, c
   - Summary, overall performance, and improvement recommendations.
   - Signed by rater and candidate; submitted for QA review and filing.
 
+---
+title: Counseling & Evaluation Forms - Tip
 ---
 
 > **Tip:** Each form is critical for documenting candidate development, providing feedback, and ensuring transparency and fairness in the OCS evaluation process. 
