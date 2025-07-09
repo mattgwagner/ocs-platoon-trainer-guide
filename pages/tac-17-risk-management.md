@@ -151,7 +151,6 @@ layout: two-cols
 ### **Post-Training**
 - Personnel accountability
 - Equipment inspection
-- Incident reporting
 - Medical evaluation if needed
 - After-action review
 
@@ -171,80 +170,6 @@ layout: two-cols
 | **Personnel** | Proper training, medical status | Qualification verification |
 | **Procedures** | Standard operating procedures | Rehearsals, briefings |
 | **Communication** | Primary/alternate means | Radio checks, signals |
-
----
-title: Incident Reporting and Investigation
----
-
-# Incident Reporting and Investigation
-
-## **Incident Classification**
-
-::grid{cols=3 gap=4}
-
-::card{title="Class A" icon="🔴"}
-**Criteria:**
-- Fatality or permanent disability
-- Property damage >$2M
-- Complete mission failure
-
-**Reporting:** Immediate
-**Investigation:** Formal board
-::
-
-::card{title="Class B" icon="🟠"}
-**Criteria:**
-- Hospitalization >24 hours
-- Property damage $500K-$2M
-- Significant mission impact
-
-**Reporting:** 24 hours
-**Investigation:** Formal investigation
-::
-
-::card{title="Class C" icon="🟡"}
-**Criteria:**
-- Lost duty time
-- Property damage $50K-$500K
-- Minor mission impact
-
-**Reporting:** 72 hours
-**Investigation:** Local investigation
-::
-
-::
-
-## **Investigation Process**
-
-```mermaid
-flowchart LR
-    A[Incident Occurs] --> B[Secure Scene]
-    B --> C[Provide Care]
-    C --> D[Notify Command]
-    D --> E[Preserve Evidence]
-    E --> F[Initial Investigation]
-    F --> G[Formal Investigation]
-    G --> H[Analysis & Findings]
-    H --> I[Recommendations]
-    I --> J[Implementation]
-    J --> K[Follow-up]
-```
-
-## **Documentation Requirements**
-
-**Immediate Actions:**
-- Preliminary report within 24 hours
-- Witness statements
-- Photographs of scene
-- Medical records
-- Equipment inspection reports
-
-**Follow-up Actions:**
-- Detailed incident report
-- Root cause analysis
-- Corrective action plan
-- Lessons learned
-- Training updates
 
 ---
 title: Safety Culture and Leadership
