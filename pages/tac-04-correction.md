@@ -8,6 +8,37 @@ title: Overview of Corrective Exercises
 - **Goal:** Enhance skills, correct mistakes, and reinforce learning.
 
 ---
+title: Corrective Exercises
+---
+
+# Corrective Exercises
+
+::columns
+
+:::column{width="55%"}
+Only the following exercises should be selected for performance of corrective action.
+
+Only _one_ of the above exercises may be selected for each corrective action.
+
+The number of repetitions should not exceed **FIVE** for any one of the exercises listed above.
+:::
+
+:::column{width="45%"}
+- [ ] Rower
+- [ ] Squat bender
+- [ ] Windmill
+- [ ] Prone row
+- [ ] Push-up
+- [ ] V-up
+- [ ] Leg tuck and twist
+- [ ] Supine bicycle
+- [ ] Swimmer
+- [ ] 8-count push-up
+:::
+
+::
+
+---
 title: Acceptable Corrective Exercises: Physical & Task-Based
 ---
 
