@@ -50,11 +50,12 @@ title: Command Authority and Legal Boundaries
 
 # Command Authority and Legal Boundaries
 
-## **Sources of Authority**
+---
+title: Sources of Authority
+layout: two-cols
+---
 
-::columns
-
-:::column{width="50%"}
+# Sources of Authority
 
 ### **Legal Authority**
 - **Constitutional:** Article I, Section 8
@@ -68,9 +69,7 @@ title: Command Authority and Legal Boundaries
 - **Functional:** Specific duties
 - **Temporal:** Duration of assignment
 
-:::
-
-:::column{width="50%"}
+::right::
 
 ### **Authority Limitations**
 - **Legal:** Cannot violate law
@@ -83,10 +82,6 @@ title: Command Authority and Legal Boundaries
 - **Appropriate:** Suitable level
 - **Accountable:** Maintain responsibility
 - **Supervised:** Monitor execution
-
-:::
-
-::
 
 ## **Legal Boundaries Matrix**
 
@@ -160,11 +155,12 @@ Equal Opportunity (EO) violations occur when personnel are treated differently b
 
 ::
 
-## **Religious Accommodation**
+---
+title: Religious Accommodation
+layout: two-cols
+---
 
-::columns
-
-:::column{width="50%"}
+# Religious Accommodation
 
 ### **Accommodation Process**
 1. **Request:** Candidate submits request
@@ -180,9 +176,7 @@ Equal Opportunity (EO) violations occur when personnel are treated differently b
 - Grooming standards
 - Holy day observances
 
-:::
-
-:::column{width="50%"}
+::right::
 
 ### **Approval Criteria**
 - **Compelling Government Interest:** Mission impact
@@ -197,10 +191,6 @@ Equal Opportunity (EO) violations occur when personnel are treated differently b
 - Decision rationale
 - Appeal process
 - Monitoring plan
-
-:::
-
-::
 
 ---
 title: Harassment Prevention and Response
@@ -307,9 +297,8 @@ title: Due Process and Administrative Actions
 - **Separation:** Discharge from service
 - **Reduction:** Grade/rank decrease
 
-:::
 
-:::column{width="50%"}
+::right::
 
 ### **Constitutional Rights**
 - **Fifth Amendment:** Self-incrimination protection
@@ -324,10 +313,6 @@ title: Due Process and Administrative Actions
 - **Article 38:** Right to counsel
 - **Article 46:** Opportunity to obtain witnesses
 - **Article 44:** Former jeopardy
-
-:::
-
-::
 
 ## **Administrative vs. Punitive Actions**
 
@@ -384,11 +369,12 @@ title: Privacy and Information Security
 
 ::
 
-## **Information Security Classification**
+---
+title: Information Security Classification
+layout: two-cols
+---
 
-::columns
-
-:::column{width="50%"}
+# Information Security Classification
 
 ### **Classification Levels**
 - **Unclassified:** General information
@@ -404,9 +390,7 @@ title: Privacy and Information Security
 - **Access:** Cleared personnel only
 - **Marking:** Clear identification
 
-:::
-
-:::column{width="50%"}
+::right::
 
 ### **Common Violations**
 - **Unauthorized Disclosure:** Sharing classified information
@@ -421,10 +405,6 @@ title: Privacy and Information Security
 - **Criminal:** Court-martial, federal prosecution
 - **Civil:** Monetary penalties
 - **Career:** Separation, blocked promotion
-
-:::
-
-::
 
 ---
 title: Reporting Requirements and Mandatory Actions
@@ -510,11 +490,12 @@ title: Reporting Requirements and Mandatory Actions
 
 ::
 
-## **Failure to Report Consequences**
+---
+title: Failure to Report Consequences
+layout: two-cols
+---
 
-::columns
-
-:::column{width="50%"}
+# Failure to Report Consequences
 
 ### **Administrative Consequences**
 - **Reprimand:** Formal disapproval
@@ -530,9 +511,7 @@ title: Reporting Requirements and Mandatory Actions
 - **Obstruction:** Justice interference
 - **Criminal:** Federal prosecution
 
-:::
-
-:::column{width="50%"}
+::right::
 
 ### **Career Consequences**
 - **Promotion:** Blocked advancement
@@ -547,10 +526,6 @@ title: Reporting Requirements and Mandatory Actions
 - **Resources:** Available support
 - **Documentation:** Proper records
 - **Consultation:** Legal advice
-
-:::
-
-::
 
 ---
 title: Legal Resources and Support
@@ -596,11 +571,12 @@ title: Legal Resources and Support
 
 ::
 
-## **When to Seek Legal Advice**
+---
+title: When to Seek Legal Advice
+layout: two-cols
+---
 
-::columns
-
-:::column{width="50%"}
+# When to Seek Legal Advice
 
 ### **Mandatory Consultation**
 - **Criminal allegations:** Against you or subordinates
@@ -616,9 +592,7 @@ title: Legal Resources and Support
 - **Media inquiries:** Public attention
 - **Civilian interaction:** External agencies
 
-:::
-
-:::column{width="50%"}
+::right::
 
 ### **Consultation Process**
 1. **Identify Issue:** Clearly define problem
@@ -633,9 +607,5 @@ title: Legal Resources and Support
 - **Questions:** Specific legal issues
 - **Timeline:** Urgency and deadlines
 - **Follow-up:** Implementation plan
-
-:::
-
-::
 
 > **Remember:** When in doubt, seek legal advice. It's better to ask and be certain than to act without proper authority and face consequences later. 

@@ -221,13 +221,10 @@ title: The 4W Method of Corrective Training
 
 ---
 title: Timing and Delivery Best Practices
+layout: two-cols
 ---
 
 # Timing and Delivery Best Practices
-
-::columns
-
-:::column{width="50%"}
 
 ## **Immediate Response**
 - **Real-time correction** when possible
@@ -241,9 +238,7 @@ title: Timing and Delivery Best Practices
 - **Peer dynamics**
 - **Mission requirements**
 
-:::
-
-:::column{width="50%"}
+::right::
 
 ## **Private vs. Public Correction**
 
@@ -258,10 +253,6 @@ title: Timing and Delivery Best Practices
 - Team performance affected
 - Teaching moment for all
 - Standard enforcement needed
-
-:::
-
-::
 
 ---
 title: Documentation Requirements

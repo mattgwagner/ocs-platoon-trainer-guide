@@ -109,15 +109,12 @@ flowchart TD
 
 ---
 title: AAR Facilitation Techniques
+layout: two-cols
 ---
 
 # AAR Facilitation Techniques
 
 ## **Facilitator Roles and Responsibilities**
-
-::columns
-
-:::column{width="50%"}
 
 ### **Before the AAR**
 - Gather relevant data and observations
@@ -133,9 +130,7 @@ title: AAR Facilitation Techniques
 - Keep discussion focused
 - Manage time effectively
 
-:::
-
-:::column{width="50%"}
+::right::
 
 ### **After the AAR**
 - Document key findings
@@ -150,10 +145,6 @@ title: AAR Facilitation Techniques
 - Conflict resolution
 - Group facilitation
 - Critical thinking
-
-:::
-
-::
 
 ## **Effective Questioning Techniques**
 
@@ -292,15 +283,12 @@ title: AAR Execution Guidelines
 
 ---
 title: AAR Documentation and Follow-up
+layout: two-cols
 ---
 
 # AAR Documentation and Follow-up
 
 ## **Documentation Requirements**
-
-::columns
-
-:::column{width="50%"}
 
 ### **Immediate Documentation**
 - Key discussion points
@@ -316,9 +304,7 @@ title: AAR Documentation and Follow-up
 - Recommendations
 - Implementation timeline
 
-:::
-
-:::column{width="50%"}
+::right::
 
 ### **Distribution List**
 - Participants
@@ -333,10 +319,6 @@ title: AAR Documentation and Follow-up
 - Share best practices
 - Update procedures
 - Plan future training
-
-:::
-
-::
 
 ## **AAR Report Template**
 
@@ -466,11 +448,12 @@ title: Virtual and Remote AAR Considerations
 
 ::
 
-## **Virtual AAR Best Practices**
+---
+title: Virtual AAR Best Practices
+layout: two-cols
+---
 
-::columns
-
-:::column{width="50%"}
+# Virtual AAR Best Practices
 
 ### **Engagement Strategies**
 - Shorter time blocks (45-60 minutes max)
@@ -486,9 +469,7 @@ title: Virtual and Remote AAR Considerations
 - Structured turn-taking
 - Written summary distributed
 
-:::
-
-:::column{width="50%"}
+::right::
 
 ### **Documentation Methods**
 - Real-time collaborative documents
@@ -503,9 +484,5 @@ title: Virtual and Remote AAR Considerations
 - Digital action tracking
 - Virtual check-ins
 - Online resource sharing
-
-:::
-
-::
 
 > **Remember:** The AAR is a learning tool, not a performance evaluation. Focus on helping candidates discover insights for themselves rather than telling them what they should have done. 

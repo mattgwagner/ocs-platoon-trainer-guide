@@ -190,15 +190,12 @@ title: Performance Standards and Metrics
 
 ---
 title: Observation and Documentation Techniques
+layout: two-cols
 ---
 
 # Observation and Documentation Techniques
 
 ## **Systematic Observation Methods**
-
-::columns
-
-:::column{width="50%"}
 
 ### **Structured Observation**
 - **Purpose:** Focused assessment of specific behaviors
@@ -212,9 +209,7 @@ title: Observation and Documentation Techniques
 - **Frequency:** Continuous, opportunistic
 - **Documentation:** Narrative descriptions and examples
 
-:::
-
-:::column{width="50%"}
+::right::
 
 ### **Event Sampling**
 - **Purpose:** Capture specific incidents or behaviors
@@ -227,10 +222,6 @@ title: Observation and Documentation Techniques
 - **Method:** Observe at regular intervals
 - **Frequency:** Predetermined schedule
 - **Documentation:** Time-stamped observations
-
-:::
-
-::
 
 ## **Documentation Best Practices**
 
@@ -379,11 +370,12 @@ title: Performance Counseling and Development
 
 # Performance Counseling and Development
 
-## **Developmental Counseling Framework**
+---
+title: Developmental Counseling Framework
+layout: two-cols
+---
 
-::columns
-
-:::column{width="50%"}
+# Developmental Counseling Framework
 
 ### **Counseling Types**
 - **Event-Oriented:** Specific incidents
@@ -399,9 +391,7 @@ title: Performance Counseling and Development
 - **Quarterly:** Comprehensive assessment
 - **As-needed:** Specific events
 
-:::
-
-:::column{width="50%"}
+::right::
 
 ### **Counseling Objectives**
 - Performance improvement
@@ -416,10 +406,6 @@ title: Performance Counseling and Development
 - Clear expectations
 - Action plans
 - Follow-up schedules
-
-:::
-
-::
 
 ## **Performance Improvement Process**
 
@@ -560,11 +546,12 @@ title: Performance Standards Documentation
 
 ::
 
-## **Common Evaluation Errors**
+---
+title: Common Evaluation Errors
+layout: two-cols
+---
 
-::columns
-
-:::column{width="50%"}
+# Common Evaluation Errors
 
 ### **Rater Errors**
 - **Halo Effect:** Overall impression influences all ratings
@@ -580,9 +567,7 @@ title: Performance Standards Documentation
 - Seek multiple perspectives
 - Document continuously
 
-:::
-
-:::column{width="50%"}
+::right::
 
 ### **Logical Errors**
 - **Attribution:** Assuming intent from behavior
@@ -597,9 +582,5 @@ title: Performance Standards Documentation
 - Remain open to change
 - Use individual standards
 - Evaluate each person individually
-
-:::
-
-::
 
 > **Remember:** Evaluation is a continuous process of observation, documentation, feedback, and development. The goal is to help candidates succeed while maintaining high standards. 

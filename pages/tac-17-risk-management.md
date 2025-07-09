@@ -195,15 +195,12 @@ title: Emergency Procedures
 
 ---
 title: Training Safety Standards
+layout: two-cols
 ---
 
 # Training Safety Standards
 
 ## **Physical Training Safety**
-
-::columns
-
-:::column{width="50%"}
 
 ### **Pre-Training Checks**
 - Medical clearance verification
@@ -219,9 +216,7 @@ title: Training Safety Standards
 - Equipment maintenance
 - Immediate correction of unsafe acts
 
-:::
-
-:::column{width="50%"}
+::right::
 
 ### **Post-Training**
 - Personnel accountability
@@ -236,10 +231,6 @@ title: Training Safety Standards
 - Equipment failure
 - Overexertion
 - Environmental hazards
-
-:::
-
-::
 
 ## **Field Training Safety**
 
