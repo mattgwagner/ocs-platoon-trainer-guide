@@ -357,14 +357,14 @@ title: Key Takeaways and Action Items
 
 :::column{width="50%"}
 
-### **Immediate Actions (First 30 Days)**
+### Immediate Actions (First 30 Days)
 - [ ] Review all referenced regulations
 - [ ] Establish candidate counseling schedule
 - [ ] Implement risk management procedures
 - [ ] Create documentation systems
 - [ ] Build relationships with support staff
 
-### **Short-term Goals (30-90 Days)**
+### Short-term Goals (30-90 Days)
 - [ ] Conduct comprehensive candidate assessments
 - [ ] Implement structured AAR processes
 - [ ] Develop unit cohesion activities
@@ -375,14 +375,14 @@ title: Key Takeaways and Action Items
 
 :::column{width="50%"}
 
-### **Long-term Objectives (90+ Days)**
+### Long-term Objectives (90+ Days)
 - [ ] Measure training effectiveness
 - [ ] Refine evaluation procedures
 - [ ] Develop advanced teaching methods
 - [ ] Build professional network
 - [ ] Contribute to program improvement
 
-### **Continuous Improvement**
+### Continuous Improvement
 - [ ] Seek feedback from candidates
 - [ ] Stay current with regulations
 - [ ] Attend professional development
