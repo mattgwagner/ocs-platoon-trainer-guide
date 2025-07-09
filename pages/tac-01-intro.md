@@ -10,5 +10,3 @@ title: Introduction to TAC Officer Role
 - **Mission:** Develop adaptive, ethical, and effective leaders for the Army.
 - **Core Values:** Integrity, accountability, respect, and selfless service.
 - **Impact:** TAC Officers set the tone for the unit and model the standards expected of all leaders.
-
-> **Scenario:** A TAC Officer notices a candidate struggling with time management. Through mentorship and structured feedback, the candidate learns to prioritize tasks, ultimately excelling and becoming a peer leader. 

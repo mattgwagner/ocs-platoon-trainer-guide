@@ -32,25 +32,11 @@ mdc: true
 To provide guidance, best practices, and actionable insights for platoon trainers, supporting effective training and leadership in line with the Appendix K PLT Trainer Guide (5 MAY 2022).
 
 ---
-# Key Points
-
-::columns
-
-:::column
-### <u>OCS Honor Code</u>
-
-An Officer Candidate will not lie, cheat, steal, or tolerate those who do.
-:::
-
-:::column
-### <u>Proffer No Excuses</u>
-
-Never volunteer excuses or explain a shortcoming unless an explanation is required. The Army demands results. More damage than good is done by proffering unsought excuses.
-:::
-
-::
----
 src: ./pages/tac-01-intro.md
+---
+
+---
+src: ./pages/tac-02-key.md
 ---
 
 ---
