@@ -22,7 +22,7 @@ This presentation provides guidance for TAC (Teaching, Advising, and Counseling)
 
 ## Live Presentation
 
-The final slides can be viewed at: **[https://guide.tacai.app/](https://guide.tacai.app/)**
+The final slides can be viewed at: **[https://ocs-tac-cheatsheet.pages.dev]([https://guide.tacai.app/](https://ocs-tac-cheatsheet.pages.dev))**
 
 ## Development
 
