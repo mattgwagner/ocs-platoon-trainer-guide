@@ -275,9 +275,7 @@ src: ./pages/tac-12-counseling-feedback.md
 src: ./pages/tac-16-counseling-types.md
 ---
 
----
-src: ./pages/tac-07-cohesion.md
----
+
 
 ---
 src: ./pages/tac-08-communication.md
@@ -334,7 +332,7 @@ title: Key Takeaways and Action Items
 **Application:**
 - Mentor candidates effectively
 - Resolve conflicts constructively
-- Build cohesive teams
+
 - Communicate clearly
 - Make ethical choices
 ::
