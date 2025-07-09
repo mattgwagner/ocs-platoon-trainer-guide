@@ -36,8 +36,24 @@ src: ./pages/tac-01-intro.md
 ---
 
 ---
-src: ./pages/tac-02-key.md
+title: OCS Honor Code
+
+layout: quote
 ---
+
+# OCS Honor Code
+
+An Officer Candidate will not lie, cheat, steal, or tolerate those who do.
+
+---
+title: Proffer No Excuses
+
+layout: quote
+---
+
+# Proffer No Excuses
+
+Never volunteer excuses or explain a shortcoming unless an explanation is required. The Army demands results. More damage than good is done by proffering unsought excuses.
 
 ---
 src: ./pages/tac-02-knowledge.md
