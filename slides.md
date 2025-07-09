@@ -443,13 +443,6 @@ title: Resources and References
 
 ## **Contact Information**
 
-**Emergency Contacts:**
-- Emergency Services: 911
-- Military Police: [Installation specific]
-- Medical Emergency: [Installation specific]
-- Chaplain: [Installation specific]
-- Legal Assistance: [Installation specific]
-
 **Professional Support:**
 - Chain of Command
 - Peer TAC Officers
