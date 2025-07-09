@@ -1,13 +1,4 @@
 ---
-title: Overview of Corrective Exercises
----
-
-# Overview of Corrective Exercises
-
-- **Purpose:** Improve candidate performance through constructive feedback and learning opportunities.
-- **Goal:** Enhance skills, correct mistakes, and reinforce learning.
-
----
 title: Corrective Exercises
 ---
 
@@ -16,14 +7,14 @@ title: Corrective Exercises
 ::columns
 
 :::column{width="55%"}
+**Physical Corrective Exercises (Official List):**
+
 Only the following exercises should be selected for performance of corrective action.
 
 Only _one_ of the above exercises may be selected for each corrective action.
 
 The number of repetitions should not exceed **FIVE** for any one of the exercises listed above.
-:::
 
-:::column{width="45%"}
 - [ ] Rower
 - [ ] Squat bender
 - [ ] Windmill
@@ -36,23 +27,18 @@ The number of repetitions should not exceed **FIVE** for any one of the exercise
 - [ ] 8-count push-up
 :::
 
-::
+:::column{width="45%"}
+**Other Acceptable Corrective Actions:**
 
----
-title: Acceptable Corrective Exercises: Physical & Task-Based
----
-
-# Acceptable Corrective Exercises
-
-The following corrective exercises are generally considered appropriate for TAC Officers to use, provided they are applied fairly, safely, and in accordance with regulations:
-
-- **Physical Training (PT) Drills:**
-  - Push-ups, sit-ups, flutter kicks, mountain climbers, etc.
-  - Should be reasonable in duration and intensity.
 - **Marching/Drill Movements:**
   - Repeating drill and ceremony movements to reinforce attention to detail and discipline.
 - **Repetitive Task Practice:**
   - Having candidates repeat a procedure or task (e.g., weapons clearing, radio procedures) until performed correctly.
+
+> _All corrective exercises must be non-punitive, focused on learning, and never used as hazing or humiliation. Always follow OCS and Army regulations._
+:::
+
+::
 
 ---
 title: Acceptable Corrective Exercises: Reflective & Leadership
