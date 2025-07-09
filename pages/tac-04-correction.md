@@ -40,6 +40,28 @@ The number of repetitions should not exceed **FIVE** for any one of the exercise
 ::
 
 ---
+title: Applying Rigor and Productive Stress in Training
+---
+
+# Applying Rigor and Productive Stress in Training
+
+- **Purpose:** Develop resilience, adaptability, and effective decision-making under pressure.
+- **Principle:** Stress should be applied in a controlled, professional, and non-abusive manner to enhance learning and performance.
+
+**Productive Methods to Apply Rigor:**
+
+- Impose limited time to complete tasks or missions
+- Use controlled, professional yelling or loud commands to simulate confusion and urgency
+- Introduce complex, ambiguous scenarios requiring rapid adaptation
+- Require multitasking or simultaneous problem-solving
+- Rotate leadership roles unexpectedly
+- Conduct peer or group evaluations under observation
+- Vary environmental conditions (noise, light, distractions)
+- Enforce strict adherence to standards with immediate feedback
+
+> _All stress-inducing methods must remain within ethical and regulatory boundaries. The goal is to prepare candidates for real-world challenges, not to humiliate or break them._
+
+---
 title: Acceptable Corrective Exercises: Reflective & Leadership
 ---
 
