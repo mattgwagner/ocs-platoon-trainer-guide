@@ -7,7 +7,6 @@ title: Corrective Exercises
 ::columns
 
 :::column{width="55%"}
-**Physical Corrective Exercises (Official List):**
 
 Only the following exercises should be selected for performance of corrective action.
 
