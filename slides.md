@@ -351,11 +351,12 @@ title: Key Takeaways and Action Items
 
 ::
 
+---
+title: Implementation Checklist
+layout: two-cols
+---
+
 ## **Implementation Checklist**
-
-::columns
-
-:::column{width="50%"}
 
 ### Immediate Actions (First 30 Days)
 - [ ] Review all referenced regulations
@@ -371,9 +372,7 @@ title: Key Takeaways and Action Items
 - [ ] Establish professional development plan
 - [ ] Create feedback mechanisms
 
-:::
-
-:::column{width="50%"}
+::right::
 
 ### Long-term Objectives (90+ Days)
 - [ ] Measure training effectiveness
@@ -388,10 +387,6 @@ title: Key Takeaways and Action Items
 - [ ] Attend professional development
 - [ ] Share best practices
 - [ ] Mentor new TAC officers
-
-:::
-
-::
 
 ---
 src: ./pages/tac-10-conclusion.md
