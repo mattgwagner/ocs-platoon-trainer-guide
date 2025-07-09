@@ -128,10 +128,6 @@ src: ./pages/tac-01-intro.md
 ---
 
 ---
-src: ./pages/tac-19-legal-compliance.md
----
-
----
 src: ./pages/tac-02-knowledge.md
 ---
 
@@ -319,14 +315,12 @@ title: Key Takeaways and Action Items
 
 ::card{title="Technical Skills" icon="🔧"}
 **Achieved:**
-- Legal compliance understanding
 - Evaluation methodology
 - Corrective training procedures
 - Risk management protocols
 - Documentation standards
 
 **Application:**
-- Apply AR 600-20 guidelines
 - Conduct fair evaluations
 - Execute proper corrective actions
 - Maintain safety standards
@@ -359,7 +353,6 @@ layout: two-cols
 ## **Implementation Checklist**
 
 ### Immediate Actions (First 30 Days)
-- [ ] Review all referenced regulations
 - [ ] Establish candidate counseling schedule
 - [ ] Implement risk management procedures
 - [ ] Create documentation systems
