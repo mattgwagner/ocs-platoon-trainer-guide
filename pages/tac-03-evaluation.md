@@ -350,14 +350,6 @@ graph TD
 - Performance metrics
 ::
 
-::
-
----
-title: Performance Counseling and Development
----
-
-# Performance Counseling and Development
-
 ---
 title: Developmental Counseling Framework
 layout: two-cols

@@ -34,11 +34,6 @@ layout: two-cols
 - Retaliation
 - Excessive or oppressive
 
-**Authority Source:**
-- AR 600-20, para 4-6b
-- Inherent command authority
-- Non-judicial punishment alternative
-
 ::
 
 ---
@@ -68,7 +63,7 @@ title: Authorized Corrective Exercises
 - Windmill
 ::
 
-::
+
 
 ---
 
