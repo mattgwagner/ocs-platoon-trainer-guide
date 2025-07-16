@@ -135,13 +135,12 @@ title: Performance Standards and Metrics
 | **Below Standards** | Significant improvement needed | Multiple deficiencies, requires intervention | Intensive remediation |
 
 ---
-title: Evaluation Metrics Framework
-layout: two-cols
+title: Evaluation Metrics Framework: Quantitative
 ---
 
 # Evaluation Metrics Framework
 
-### Quantitative Measures
+## Quantitative Measures
 - Physical fitness scores
 - Academic test results
 - Task completion rates
@@ -149,16 +148,20 @@ layout: two-cols
 - Leadership position performance
 - Peer evaluation scores
 
-**Tracking Methods:**
+### Tracking Methods
 - Performance databases
 - Progress charts
 - Trend analysis
 - Comparative assessments
 - Statistical reporting
 
-::right::
+---
+title: Evaluation Metrics Framework: Qualitative
+---
 
-### Qualitative Measures
+# Evaluation Metrics Framework
+
+## Qualitative Measures
 - Leadership presence
 - Communication effectiveness
 - Team integration
@@ -166,7 +169,7 @@ layout: two-cols
 - Ethical decision-making
 - Adaptability under stress
 
-**Assessment Methods:**
+### Assessment Methods
 - Behavioral observations
 - Scenario-based evaluations
 - Peer feedback
