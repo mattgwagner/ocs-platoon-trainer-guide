@@ -43,33 +43,6 @@ As a TAC officer, you are responsible for the safety and welfare of all candidat
 ::
 
 ---
-title: Risk Assessment Process
----
-
-# Risk Assessment Process
-
-```mermaid
-flowchart TD
-    A[Identify Hazards] --> B[Assess Probability]
-    B --> C[Evaluate Severity]
-    C --> D[Determine Risk Level]
-    D --> E[Implement Controls]
-    E --> F[Monitor Effectiveness]
-    F --> G[Reassess Continuously]
-    
-    D --> H{Risk Level}
-    H -->|Low| I[Accept Risk]
-    H -->|Medium| J[Implement Controls]
-    H -->|High| K[Reduce or Eliminate]
-    H -->|Extremely High| L[Stop Activity]
-    
-    style L fill:#FF6B6B
-    style K fill:#FFE66D
-    style J fill:#4ECDC4
-    style I fill:#95E1D3
-```
-
----
 title: Training Safety Standards
 layout: two-cols
 ---
