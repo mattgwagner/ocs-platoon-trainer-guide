@@ -257,12 +257,6 @@ src: ./pages/tac-12-counseling-feedback.md
 src: ./pages/tac-16-counseling-types.md
 ---
 
-
-
----
-src: ./pages/tac-08-communication.md
----
-
 ---
 src: ./pages/tac-13-ethical-leadership.md
 ---
@@ -273,10 +267,6 @@ src: ./pages/tac-14-scenario-based-training.md
 
 ---
 src: ./pages/tac-15-common-pitfalls.md
----
-
----
-src: ./pages/tac-09-improvement.md
 ---
 
 ---
@@ -322,75 +312,6 @@ title: Key Takeaways and Action Items
 ::
 
 ---
-src: ./pages/tac-10-conclusion.md
----
-
----
-title: Resources and References
----
-
-# Resources and References
-
-## **Primary References**
-
-::grid{cols=2 gap=4}
-
-::card{title="Army Regulations" icon="📚"}
-**Key Publications:**
-- AR 600-20 - Army Command Policy
-- AR 600-8-19 - Officer Professional Development
-- AR 27-10 - Military Justice
-- AR 350-1 - Training and Leader Development
-- FM 6-22 - Leader Development
-
-**Access:** [Army Publishing Directorate](https://armypubs.army.mil/)
-::
-
-::card{title="Professional Development" icon="🎓"}
-**Training Resources:**
-- Army Leader Development Strategy
-- Officer Professional Development
-- Leadership Assessment Program
-- Combined Arms Center
-- Center for Army Leadership
-
-**Access:** [CAC](https://usacac.army.mil/)
-::
-
-::card{title="Legal Resources" icon="⚖️"}
-**Support Services:**
-- Staff Judge Advocate
-- Legal Assistance Office
-- Equal Opportunity Advisor
-- Inspector General
-- Military Police
-
-**Access:** Local installation directory
-::
-
-::card{title="Online Resources" icon="🌐"}
-**Digital Platforms:**
-- Army Training Network (ATN)
-- Military Leadership Exchange
-- Joint Knowledge Online (JKO)
-- Army Learning Management System
-- Professional forums and communities
-
-**Access:** CAC-enabled sites
-::
-
-::
-
-## **Contact Information**
-
-**Professional Support:**
-- Chain of Command
-- Peer TAC Officers
-- Senior Leaders
-- Subject Matter Experts
-- Professional Organizations
-
----
 title: Thank You
 layout: center
 ---
@@ -402,11 +323,3 @@ layout: center
 **"The strength of the Army lies in the quality of its leaders."**
 
 **Your role as a TAC officer is fundamental to developing the next generation of Army leaders.**
-
----
-
-**Questions and Discussion**
-
-**Continue the conversation at:** [https://guide.tacai.app/](https://guide.tacai.app/)
-
-**Remember:** Lead by example, uphold standards, and foster a positive learning environment.
