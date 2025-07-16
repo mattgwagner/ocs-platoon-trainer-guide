@@ -49,53 +49,19 @@ graph TB
 ```
 
 ---
+layout: two-cols
 title: Army Values in TAC Leadership
 ---
 
 # Army Values in TAC Leadership
 
-::grid{cols=2 gap=4}
+- **Loyalty:** True faith to Constitution, Army, unit, and candidates
+- **Duty:** Fulfill obligations and take responsibility
+- **Respect:** Treat all with dignity and value diversity
+- **Selfless Service:** Put candidate development and mission first
 
-::card{title="Loyalty" icon="🤝"}
-- Bear true faith to the Constitution, Army, unit, and candidates
-- Support chain of command decisions
-- Advocate for candidate success
-::
+::right::
 
-::card{title="Duty" icon="⚖️"}
-- Fulfill obligations as assigned
-- Take responsibility for actions and decisions
-- Complete tasks to standard
-::
-
-::card{title="Respect" icon="🙏"}
-- Treat all candidates with dignity
-- Value diverse perspectives
-- Foster inclusive environment
-::
-
-::card{title="Selfless Service" icon="🤲"}
-- Put candidate development first
-- Sacrifice personal comfort for mission
-- Serve the greater good
-::
-
-::card{title="Honor" icon="🏆"}
-- Live up to all Army Values
-- Demonstrate moral courage
-- Maintain integrity in all actions
-::
-
-::card{title="Integrity" icon="🎯"}
-- Do what's right, legally and morally
-- Be honest in all dealings
-- Maintain transparency
-::
-
-::card{title="Personal Courage" icon="💪"}
-- Face fear, danger, or adversity
-- Take initiative when needed
-- Stand up for what's right
-::
-
-::
+- **Honor:** Live up to Army Values and maintain integrity
+- **Integrity:** Do what's right, legally and morally
+- **Personal Courage:** Face adversity and stand up for what's right
