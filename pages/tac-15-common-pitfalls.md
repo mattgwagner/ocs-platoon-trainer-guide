@@ -14,6 +14,4 @@ title: Common Pitfalls & Solutions
 - Lack of follow-up after corrective actions
 - Poor communication or unclear expectations
 
-**Tip:** Regularly reflect on your actions and seek feedback to identify blind spots. When in doubt, consult with peers, senior TACs, or legal advisors.
-
-> **Scenario:** A TAC Officer realizes they have been more lenient with certain candidates. After self-reflection and peer feedback, they adjust their approach to ensure fairness and consistency. 
+**Tip:** Regularly reflect on your actions and seek feedback to identify blind spots. When in doubt, consult with peers, senior TACs, or legal advisors. 

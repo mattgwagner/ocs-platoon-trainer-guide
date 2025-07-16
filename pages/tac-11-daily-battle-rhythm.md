@@ -11,6 +11,4 @@ title: Daily Battle Rhythm
 - Document observations and prepare counseling statements as needed.
 - Attend staff meetings and coordinate with other cadre.
 - End-of-day review and planning for the next day.
-- **Tip:** Prioritize tasks using the "urgent vs. important" matrix to maximize effectiveness.
-
-> **Scenario:** Faced with competing demands, the TAC Officer delegates administrative tasks to focus on a critical field exercise, ensuring both mission success and candidate development. 
+- **Tip:** Prioritize tasks using the "urgent vs. important" matrix to maximize effectiveness. 
