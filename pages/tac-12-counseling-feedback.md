@@ -10,6 +10,8 @@ title: Counseling & Feedback
 - Practice active listening and empathy.
 - Provide specific, actionable feedback and set follow-up goals.
 - Maintain confidentiality and professionalism.
-- **Tip:** Use open-ended questions to encourage self-reflection and ownership.
+- For common documentation and follow-up pitfalls, see [Common Pitfalls & Solutions](./tac-15-common-pitfalls.md).
+
+**Tip:** Use open-ended questions to encourage self-reflection and ownership.
 
 > **Scenario:** After a field exercise, the TAC Officer conducts a performance counseling session, helping the candidate identify strengths and areas for improvement, and jointly developing an action plan. 

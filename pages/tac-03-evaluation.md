@@ -183,6 +183,8 @@ layout: two-cols
 
 # Observation and Documentation Techniques
 
+> For detailed counseling and documentation best practices, see [Counseling & Feedback](./tac-12-counseling-feedback.md).
+
 ## **Systematic Observation Methods**
 
 ### **Structured Observation**
@@ -210,45 +212,6 @@ layout: two-cols
 - **Method:** Observe at regular intervals
 - **Frequency:** Predetermined schedule
 - **Documentation:** Time-stamped observations
-
-## **Documentation Best Practices**
-
-::grid{cols=2 gap=6}
-
-::card{title="What to Document" icon="📋"}
-**Essential Elements:**
-- Specific behaviors observed
-- Date, time, and location
-- Context and circumstances
-- Objective facts, not opinions
-- Supporting evidence
-- Witness information
-
-**Examples:**
-- "Candidate Smith took initiative during patrol planning session on 15 Jan 24"
-- "Demonstrated clear communication during radio procedures exercise"
-- "Showed respect for peers during conflict resolution"
-::
-
-::card{title="Documentation Standards" icon="✅"}
-**Quality Standards:**
-- Factual and objective
-- Specific and detailed
-- Timely and current
-- Legible and professional
-- Consistent format
-- Legally defensible
-
-**Avoid:**
-- Subjective opinions
-- Assumptions or speculation
-- Vague generalizations
-- Inflammatory language
-- Personal bias
-- Incomplete information
-::
-
-::
 
 ---
 title: Multi-Source Feedback System
@@ -357,6 +320,8 @@ layout: two-cols
 
 # Developmental Counseling Framework
 
+> For a full breakdown of counseling types, frequency, and documentation, see [Counseling & Feedback](./tac-12-counseling-feedback.md).
+
 ### **Counseling Types**
 - **Event-Oriented:** Specific incidents
 - **Performance:** Regular assessments
@@ -387,32 +352,13 @@ layout: two-cols
 - Action plans
 - Follow-up schedules
 
-## **Performance Improvement Process**
-
-```mermaid
-flowchart TD
-    A[Identify Performance Gap] --> B[Gather Information]
-    B --> C[Conduct Counseling Session]
-    C --> D[Develop Action Plan]
-    D --> E[Implement Support]
-    E --> F[Monitor Progress]
-    F --> G{Improvement Achieved?}
-    G -->|Yes| H[Reinforce Success]
-    G -->|No| I[Reassess Approach]
-    I --> J[Modify Plan]
-    J --> F
-    H --> K[Continue Monitoring]
-    
-    style A fill:#FFE66D
-    style G fill:#4ECDC4
-    style H fill:#95E1D3
-```
-
 ---
 title: Performance Standards Documentation
 ---
 
 # Performance Standards Documentation
+
+> For common pitfalls and errors in evaluation, see [Common Pitfalls & Solutions](./tac-15-common-pitfalls.md).
 
 ## **Evidence-Based Assessment**
 
@@ -462,6 +408,8 @@ layout: two-cols
 ---
 
 # Common Evaluation Errors
+
+> For detailed prevention strategies and mitigation techniques, see [Common Pitfalls & Solutions](./tac-15-common-pitfalls.md).
 
 ### **Rater Errors**
 - **Halo Effect:** Overall impression influences all ratings
