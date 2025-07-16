@@ -1,17 +1,15 @@
 ---
+layout: two-cols
 title: Comprehensive Candidate Evaluation System
 ---
 
 # Comprehensive Candidate Evaluation System
 
-## **Evaluation Philosophy**
+## Evaluation Philosophy
 
 Evaluation is not just measurement—it's a developmental tool that guides candidate growth, identifies strengths and weaknesses, and ensures standards are met consistently and fairly.
 
-::grid{cols=2 gap=6}
-
-::card{title="Evaluation Principles" icon="⚖️"}
-**Core Principles:**
+### Evaluation Principles
 - Standards-based assessment
 - Continuous feedback
 - Developmental focus
@@ -19,17 +17,9 @@ Evaluation is not just measurement—it's a developmental tool that guides candi
 - Fair and consistent application
 - Documented evidence
 
-**Success Factors:**
-- Clear criteria
-- Multiple data sources
-- Regular observation
-- Timely feedback
-- Constructive dialogue
-- Growth-oriented approach
-::
+::right::
 
-::card{title="Evaluation Framework" icon="📊"}
-**Assessment Categories:**
+### Evaluation Framework
 - Leadership competencies
 - Military bearing and discipline
 - Physical fitness and readiness
@@ -43,10 +33,6 @@ Evaluation is not just measurement—it's a developmental tool that guides candi
 - Peer feedback
 - Self-assessment
 - Formal evaluations
-- Continuous monitoring
-::
-
-::
 
 ---
 title: Army Leadership Requirements Model
