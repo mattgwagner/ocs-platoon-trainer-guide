@@ -72,25 +72,18 @@ mdc: true
 
 # Course Overview
 
-```mermaid
-graph TD
-    A[TAC Officer Foundation] --> B[Legal & Regulatory Framework]
-    B --> C[Evaluation & Assessment]
-    C --> D[Corrective Training]
-    D --> E[Counseling & Development]
-    E --> F[Safety & Risk Management]
-    F --> G[Advanced Leadership Skills]
-    G --> H[Continuous Improvement]
-    
-    style A fill:#4ECDC4
-    style B fill:#FFE66D
-    style C fill:#95E1D3
-    style D fill:#FFA07A
-    style E fill:#DDA0DD
-    style F fill:#FF6B6B
-    style G fill:#98FB98
-    style H fill:#F0E68C
-```
+<div style="font-size:1.25em">
+
+- **Foundation:** Core principles and mission
+- **Legal:** Regulatory framework
+- **Evaluation:** Assessment methods
+- **Correction:** Corrective training
+- **Counseling:** Development and feedback
+- **Risk Management:** Safety protocols
+- **Leadership:** Advanced skills
+- **Continuous Improvement:** Ongoing development
+
+</div>
 
 ---
 title: OCS Honor Code
