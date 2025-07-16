@@ -125,7 +125,7 @@ title: Performance Standards and Metrics
 
 # Performance Standards and Metrics
 
-## **Graduated Performance Scale**
+## Graduated Performance Scale
 
 | **Level** | **Description** | **Characteristics** | **Development Action** |
 |-----------|-----------------|---------------------|------------------------|
@@ -134,12 +134,14 @@ title: Performance Standards and Metrics
 | **Approaching Standards** | Shows improvement potential | Some deficiencies, needs guidance | Focused development plan |
 | **Below Standards** | Significant improvement needed | Multiple deficiencies, requires intervention | Intensive remediation |
 
-## **Evaluation Metrics Framework**
+---
+title: Evaluation Metrics Framework
+layout: two-cols
+---
 
-::grid{cols=2 gap=4}
+# Evaluation Metrics Framework
 
-::card{title="Quantitative Measures" icon="📈"}
-**Measurable Indicators:**
+### Quantitative Measures
 - Physical fitness scores
 - Academic test results
 - Task completion rates
@@ -153,10 +155,10 @@ title: Performance Standards and Metrics
 - Trend analysis
 - Comparative assessments
 - Statistical reporting
-::
 
-::card{title="Qualitative Measures" icon="📝"}
-**Observable Behaviors:**
+::right::
+
+### Qualitative Measures
 - Leadership presence
 - Communication effectiveness
 - Team integration
@@ -170,9 +172,6 @@ title: Performance Standards and Metrics
 - Peer feedback
 - Self-reflections
 - Interview assessments
-::
-
-::
 
 ---
 title: Observation and Documentation Techniques
