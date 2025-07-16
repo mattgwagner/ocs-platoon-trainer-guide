@@ -5,24 +5,6 @@ layout: two-cols
 
 # TAC Officer Role & Mission
 
-::left::
-
-## **TAC = Teaching, Advising, Counseling**
-
-- **Mentor** and develop officer candidates
-- **Evaluate** performance against Army standards
-- **Enforce** military discipline and values
-- **Model** leadership excellence daily
-
-## Core Responsibilities
-- Conduct performance evaluations
-- Provide developmental counseling
-- Execute corrective training
-- Maintain unit standards
-- Foster team cohesion
-
-::right::
-
 ## Regulatory Foundation
 
 **Key References:**
@@ -30,14 +12,6 @@ layout: two-cols
 - AR 600-8-19 (Officer Professional Development)
 - DA PAM 600-3 (Officer Professional Development)
 - FM 6-22 (Leader Development)
-
----
-
-**Mission:** Develop adaptive, ethical, and effective leaders for the Army through comprehensive training, evaluation, and mentorship.
-
-**Vision:** Transform motivated civilians into confident, competent Army officers who embody the Army Values and demonstrate exceptional leadership skills.
-
-::
 
 ---
 title: TAC Officer Impact Framework
