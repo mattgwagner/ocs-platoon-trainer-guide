@@ -39,32 +39,21 @@ mdc: true
 
 # Table of Contents
 
-::grid{cols=3 gap=4}
+::grid{cols=3 gap=2}
+**Foundation**
+- TAC Officer Role
+- Army Values
+- Legal Compliance
 
-::card{title="Foundation" icon="🏗️"}
-**Core Concepts**
-- TAC Officer Role & Mission
-- Army Values & Leadership
-- Legal Framework & Compliance
-- Risk Management & Safety
-::
-
-::card{title="Operations" icon="⚙️"}
-**Daily Execution**
+**Operations**
 - Evaluation & Assessment
 - Corrective Training
-- Counseling & Development
-- Daily Battle Rhythm
-::
+- Counseling
 
-::card{title="Excellence" icon="🎯"}
-**Advanced Skills**
+**Excellence**
 - After Action Reviews
-- Team Building & Cohesion
-- Crisis Management
+- Team Building
 - Professional Development
-::
-
 ::
 
 ---
